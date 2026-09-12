@@ -1,4 +1,4 @@
-# Modelo Poderoso para o Preço do Barril de Petróleo (WTI & Brent)
+# Modelo para o Preço do Barril de Petróleo (WTI & Brent)
 
 **Autor:** Luiz Tiago Wilcke  
 
